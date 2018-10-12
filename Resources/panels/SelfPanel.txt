@@ -1,0 +1,7 @@
+x: 5
+y: 464
+w: 790
+h: 47
+
+r: 35, 8, 121, 32, Button, HealButton
+r: 42, 16, 80, 14, Label, Heal, VCR, l, Heal

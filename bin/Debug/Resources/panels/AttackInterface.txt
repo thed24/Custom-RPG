@@ -1,0 +1,15 @@
+x: 132
+y: 525
+w: 368
+h: 60
+
+r: 20, 22, 41, 14, Label, MeleePanel, VCR, l, Melee
+r: 15, 10, 52, 40, Button, MeleeButton
+r: 90, 22, 41, 14, Label, MagicPanel, VCR, l, Magic
+r: 85, 10, 50, 40, Button, MagicButton
+r: 170, 22, 41, 14, Label, RangedPanel, VCR, l, Ranged
+r: 165, 10, 50, 40, Button, RangedButton
+r: 250, 22, 41, 14, Label, SelfPanel, VCR, l, Self
+r: 245, 10, 45, 40, Button, SelfButton
+r: 310, 22, 41, 14, Label, BuffPanel, VCR, l, Buff
+r: 305, 10, 45, 40, Button, BuffButton

@@ -1,0 +1,2 @@
+BITMAP, Player1Idle,Player1Idle.png, 261, 189, 3, 3, 7 
+ANIM, P1Idle,P1IdleAnimation.txt 

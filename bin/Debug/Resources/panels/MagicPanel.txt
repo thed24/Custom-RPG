@@ -1,0 +1,11 @@
+x: 5
+y: 464
+w: 790
+h: 47
+
+r: 35, 8, 121, 32, Button, FireballButton
+r: 42, 16, 80, 14, Label, Fireball, VCR, l, Fireball
+r: 209, 8, 121, 32, Button, LightningButton
+r: 215, 16, 80, 14, Label, Lightning, VCR, l, Lightning
+r: 399, 8, 121, 32, Button, IceButton
+r: 406, 16, 80, 14, Label, Ice, VCR, l, Ice

@@ -1,0 +1,6 @@
+SwinGame Animation #v1
+
+//Idle
+f: [0-12], [0-12], 4, 
+
+i:start,0

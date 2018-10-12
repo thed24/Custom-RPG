@@ -1,0 +1,9 @@
+x: 5
+y: 464
+w: 790
+h: 47
+
+r: 35, 8, 121, 32, Button, ShootButton
+r: 42, 16, 80, 14, Label, Shoot, VCR, l, Shoot
+r: 209, 8, 121, 32, Button, StoneButton
+r: 215, 16, 80, 14, Label, Stone, VCR, l, Stone

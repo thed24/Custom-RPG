@@ -1,0 +1,13 @@
+Free Pascal Compiler version 3.0.4 [2017/10/06] for i386
+Copyright (c) 1993-2017 by Florian Klaempfl and others
+Target OS: Win32 for i386
+Compiling .\src\.\GameMain.pas
+GameMain.pas(278,2) Note: Local variable "battlepanel" is assigned but never used
+GameMain.pas(279,2) Note: Local variable "BattlePhaseOver" is assigned but never used
+GameMain.pas(281,2) Note: Local variable "HideState" is assigned but never used
+GameMain.pas(282,2) Note: Local variable "SkillLock" not used
+GameMain.pas(765,2) Note: Local variable "p2" not used
+GameMain.pas(856,2) Note: Local variable "IsHost" is assigned but never used
+Linking .\bin\Debug\Custom RPG.exe
+934 lines compiled, 0.2 sec, 306512 bytes code, 7492 bytes data
+6 note(s) issued

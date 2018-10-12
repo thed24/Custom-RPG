@@ -1,0 +1,8 @@
+BITMAP,Player1Idle,player1idle.png, 106, 73, 3, 2, 4 
+BITMAP,Player2Idle,player2idle.png, 106, 73, 3, 2, 4 
+BITMAP,Player1Attack,Player1Attack.png, 163, 125, 3, 4, 12 
+BITMAP,Player2Attack,Player2Attack.png, 163, 125, 3, 4, 12 
+ANIM,p1idle,P1IdleAnimation.txt 
+ANIM,p1attack,P1AttackAnimation.txt 
+ANIM,p2idle,P1IdleAnimation.txt 
+ANIM,p2attack,P1AttackAnimation.txt 

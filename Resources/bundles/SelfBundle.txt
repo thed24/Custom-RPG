@@ -1,0 +1,2 @@
+FONT,VCR,vcr.ttf,14 
+PANEL,SelfPanel,SelfPanel.txt

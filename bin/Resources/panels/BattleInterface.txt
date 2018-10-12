@@ -1,0 +1,16 @@
+x: 5
+y: 515
+w: 790
+h: 80
+d: false
+v: true
+
+r: 500, 50, 150, 30, Label, PlayerStrength, VCR, l, Strength
+r: 500, 10, 150, 30, Label, PlayerIntelligence, VCR, l, Intelligence
+r: 500, 30, 150, 30, Label, PlayerSpeed, VCR, l, Speed
+r: 650, 10, 150, 30, Label, PlayerWisdom, VCR, l, Wisdom
+r: 650, 30, 150, 30, Label, PlayerDexterity, VCR, l, Dexterity
+r: 650, 50, 100, 20, Button, SurrenderButton, Surrender
+r: 15, 10, 100, 60, Button, AttackButton, Attack
+r: 650, 51, 100, 20, Label, SurrenderLabel, VCR, c, Surrender
+r: 15, 32, 100, 60, Label, AttackLabel, VCR, c, Attack

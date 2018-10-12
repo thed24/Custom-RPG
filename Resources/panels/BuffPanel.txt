@@ -1,0 +1,13 @@
+x: 5
+y: 464
+w: 790
+h: 47
+
+r: 35, 8, 121, 32, Button, MeditateButton
+r: 42, 16, 80, 14, Label, Meditate, VCR, l, Meditate
+r: 209, 8, 121, 32, Button, GuardButton
+r: 215, 16, 80, 14, Label, Guard, VCR, l, Guard
+r: 399, 8, 121, 32, Button, PrayButton
+r: 406, 16, 80, 14, Label, Pray, VCR, l, Pray
+r: 614, 8, 121, 32, Button, AdrenalineButton
+r: 622, 16, 80, 14, Label, Adrenaline, VCR, l, Adrenaline
